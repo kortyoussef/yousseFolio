@@ -20,26 +20,23 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Youssef Kort",
+  title: "Hi all, I'm Youssef",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A creative and versatile tech enthusiast 🚀 with hands-on experience in developing Game Projects using Unity/C#, crafting Visual Designs with tools like Photoshop and Illustrator, and building smart IoT solutions using Python, microcontrollers, and real-time data. Passionate about blending code, creativity, and hardware to solve real-world problems."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1BPsvEPAyEN9Nme8NCfOHkgpfN91li_NK/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/kortyoussef",
+  linkedin: "https://www.linkedin.com/in/youssef-kort/",
+  gmail: "kortyoussef93@gmail.com",
+  facebook: "https://www.facebook.com/youssef.kort",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -49,14 +46,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "MULTI-TALENTED CREATOR WHO LOVES TO CODE GAMES, DESIGN GRAPHICS, AND BUILD SMART IOT SYSTEMS 🚀",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop highly interactive front-end interfaces, engaging games, smart IoT systems, and stunning graphic visuals for web, mobile, and embedded platforms."
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Creating engaging web & mobile apps, immersive games, eye-catching designs, and smart IoT solutions using modern tech stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "A passionate full-stack creator 🚀 skilled in building games with Unity, designing graphics with Adobe tools, and developing IoT projects using Python and hardware. Always eager to learn and explore new technologies."
     )
   ],
 
@@ -65,57 +62,69 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+  skillName: "html-5",
+  fontAwesomeClassname: "fab fa-html5"
+},
+{
+  skillName: "css3",
+  fontAwesomeClassname: "fab fa-css3-alt"
+},
+{
+  skillName: "JavaScript",
+  fontAwesomeClassname: "fab fa-js"
+},
+{
+  skillName: "reactjs",
+  fontAwesomeClassname: "fab fa-react"
+},
+{
+  skillName: "sql-database",
+  fontAwesomeClassname: "fas fa-database"
+},
+{
+  skillName: "python",
+  fontAwesomeClassname: "fab fa-python"
+},
+{
+  skillName: "unity",
+  fontAwesomeClassname: "fab fa-unity"
+},
+{
+  skillName: "nodejs",
+  fontAwesomeClassname: "fab fa-node-js"
+},
+{
+  skillName: "git",
+  fontAwesomeClassname: "fab fa-git-alt"
+},
+{
+  skillName: "linux",
+  fontAwesomeClassname: "fab fa-linux"
+},
+{
+  skillName: "photoshop",
+  fontAwesomeClassname: "fab fa-adobe"
+},
+{
+  skillName: "illustrator",
+  fontAwesomeClassname: "fab fa-adobe"
+},
+{
+  skillName: "blender",
+  fontAwesomeClassname: "fas fa-cube"
+},
+{
+  skillName: "figma",
+  fontAwesomeClassname: "fab fa-figma"
+},
+{
+  skillName: "plsql",
+  fontAwesomeClassname: "fas fa-database"
+},
+{
+  skillName: "vhdl",
+  fontAwesomeClassname: "fas fa-microchip"
+}
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -126,23 +135,23 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "Faculté des Sciences de Tunis",
+      logo: require("./assets/images/FSTLOGO.svg.png"),
+      subHeader: "license in comuter engineering",
+      duration: "September 2023 - Present",
+      desc: "Currently pursuing a license in computer engineering with a focus on software development and IoT systems.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Participating in various projects related to game development, web design, and IoT solutions.",
+        "Engaging in hands-on learning experiences to enhance practical skills in programming and system design."
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "carthage hannibal high school",
+      logo: require("./assets/images/hannibal.png"),
+      subHeader: "bacalaureate in computer science",
+      duration: "September 2019 - june 2023",
+      desc: "successfully completed the bacalaureate in computer science with a mention of 'good'.",
+      descBullets: ["Developed a strong foundation in programming, algorithms, and data structures.",]
     }
   ]
 };
@@ -158,7 +167,7 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%"
+      progressPercentage: "40%"
     },
     {
       Stack: "Programming",
@@ -171,7 +180,7 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Software Engineer",
@@ -212,29 +221,29 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "my projects",
+  subtitle: "Here are a few projects I've worked on recently.IoT solutions, each project reflects my passion for technology and creativity.",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/image (7).png"),
+      projectName: "E-vive",
+      projectDesc: "Tech waste management concept, won 3rd place at robogenesis hackathon. Our system uses intelligent swarm robotics. It combines advanced technology with environmental responsibility. This presentation explores our innovative approach.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "learn more :",
+          url: "https://drive.google.com/file/d/1nz0igDmxVh7ekHeVQvWJGcme94MkZzPj/view?usp=sharing"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/trafficam.png"),
+      projectName: "trafficam",
+      projectDesc: "trafficam is a smart traffic management system that uses computer vision to monitor and control traffic flow in real-time. It aims to reduce congestion and improve road safety.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "learn more :",
+          url: "https://drive.google.com/file/d/1XYh40wlIHs5QSRAC9zHs1HZ_PMxfjmTM/view?usp=sharing"
         }
       ]
     }
@@ -252,50 +261,50 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "third place at robogenesis hackathon",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Participated in the robogenesis hackathon and secured the third place with our innovative project E-vive, a tech waste management concept using intelligent swarm robotics.",
+      image: require("./assets/images/483511758_122096547128804862_8846322161941867014_n.jpg"),
+      imageAlt: "Robogenesis Hackathon Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1MhxrQ0RtdzLLd8KHdjZDjCpZePDXtr02/view?usp=sharing"
         },
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "robogenesis",
+          url: "https://www.facebook.com/profile.php?id=61574145867209"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "riyeda 12th edition",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "helped as part of the organization committee in the 12th edition of Riyeda, a national event that brings together young entrepreneurs and innovators to showcase their projects and ideas.",
+      image: require("./assets/images/459203797_925100289659925_2502814558774046848_n.jpg"),
+      imageAlt: "riyeda logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "certificat",
+          url: "https://drive.google.com/file/d/1Jc_K3bkVPXb5UhpDOkr5c_rnlAy-sfRx/view?usp=sharing"
+        },
+        {
+          name: "view riyeda",
+          url: "https://www.facebook.com/salonriyeda"
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "cs jam 1.0 3rd place",
+      subtitle: "Participated in the CS Jam 1.0 hackathon in collaboration with zied chebbi and secured the third place a game dev competition with the theme of chain reaction where i made a story game about the life of oppenheimer.",
+      image: require("./assets/images/480563204_122097010346782374_196627048922570068_n.jpg"),
+      imageAlt: "csjam Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Certification", url: "https://drive.google.com/file/d/1ivrp4RjQooEXFWqrKmQbNm2x47AjoM3u/view?usp=sharing"},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "project page",
+          url: "https://zied.itch.io/oppenheimer"
         }
       ]
     }
@@ -308,20 +317,14 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "i also write article as part of my job at optima junior entreprise, where i share my knowledge and insights on various topics.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://optimajuniorentreprise.com/blog/2025/04/edge-computing-le-futur-de-lit/",
+      title: "Edge computing : le futur de l’IT",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "L’Edge Computing met l’informatique des entreprises connectées à la périphérie du réseau. En traitant les données à proximité de leur source, il réduit le temps de réponse, améliore la performance, et ouvre la voie à de nouvelles applications."
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -343,7 +346,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -356,7 +359,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
@@ -372,15 +375,15 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  number: "+216 25 535 404",
+  email_address: "kortyoussef93@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  userName: "gorta", //Replace "twitter" with your twitter username without @
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
