@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/yousseFnpm%20run%20deployolio/static/css/main.ca95208a.css",
+    "main.js": "/yousseFnpm%20run%20deployolio/static/js/main.527b0ce4.js",
+    "static/css/64.bba8fa55.chunk.css": "/yousseFnpm%20run%20deployolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/yousseFnpm%20run%20deployolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/yousseFnpm%20run%20deployolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/yousseFnpm%20run%20deployolio/static/js/769.bda0d7b7.chunk.js",
+    "static/media/483511758___n.jpg": "/yousseFnpm%20run%20deployolio/static/media/483511758_122096547128804862_8846322161941867014_n.53f3eafda1d2145bc8eb.jpg",
+    "static/media/480563204___n.jpg": "/yousseFnpm%20run%20deployolio/static/media/480563204_122097010346782374_196627048922570068_n.714697678bf7708cda1d.jpg",
+    "static/media/image (7).png": "/yousseFnpm%20run%20deployolio/static/media/image (7).9f5c8e0d723d4ef67707.png",
+    "static/media/Montserrat-Regular.ttf": "/yousseFnpm%20run%20deployolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/459203797_925100289659925__n.jpg": "/yousseFnpm%20run%20deployolio/static/media/459203797_925100289659925_2502814558774046848_n.ad190ea7c3314e1b4138.jpg",
+    "static/media/FSTLOGO.svg.png": "/yousseFnpm%20run%20deployolio/static/media/FSTLOGO.svg.21e5a0ea468e36543384.png",
+    "static/media/Agustina.woff": "/yousseFnpm%20run%20deployolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/hannibal.png": "/yousseFnpm%20run%20deployolio/static/media/hannibal.d5a83dd91abca2c687e8.png",
+    "static/media/manOnTable.svg": "/yousseFnpm%20run%20deployolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/yousseFnpm%20run%20deployolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/quoraLogo.png": "/yousseFnpm%20run%20deployolio/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
+    "static/media/developerActivity.svg": "/yousseFnpm%20run%20deployolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/airbnbLogo.png": "/yousseFnpm%20run%20deployolio/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/facebookLogo.png": "/yousseFnpm%20run%20deployolio/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
+    "static/media/skill.svg": "/yousseFnpm%20run%20deployolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/yousseFnpm%20run%20deployolio/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/yousseFnpm%20run%20deployolio/index.html",
+    "static/media/talksCardBack.svg": "/yousseFnpm%20run%20deployolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.ca95208a.css.map": "/yousseFnpm%20run%20deployolio/static/css/main.ca95208a.css.map",
+    "main.527b0ce4.js.map": "/yousseFnpm%20run%20deployolio/static/js/main.527b0ce4.js.map",
+    "64.bba8fa55.chunk.css.map": "/yousseFnpm%20run%20deployolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/yousseFnpm%20run%20deployolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/yousseFnpm%20run%20deployolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/yousseFnpm%20run%20deployolio/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca95208a.css",
+    "static/js/main.527b0ce4.js"
+  ]
+}
